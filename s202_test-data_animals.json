@@ -28,5 +28,17 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "habitat": "High mountain ranges of Central and South Asia",
+    "description": "An elusive big cat with thick spotted fur and a long tail used for balance on rocky terrain."
+  },
+  {
+    "commonName": "Axolotl",
+    "scientificName": "Ambystoma mexicanum",
+    "habitat": "Freshwater lakes and canals near Mexico City",
+    "description": "A salamander that keeps its larval features into adulthood and can regenerate lost limbs."
   }
 ]
